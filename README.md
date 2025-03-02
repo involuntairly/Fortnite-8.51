@@ -1,6 +1,4 @@
-# Fortnite-8.51
-Fortnite Chapter 1: 8.51 Source:
+# fortnite-8.51
+fortnite chapter 1: 8.51 source:
 
-Don't even bother with this source, waste of time, and it is NOT my base.
-
-Credits: Android
+credits: android/sqqrky (one of my first ever projects, shut the fuck up)
